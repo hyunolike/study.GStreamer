@@ -5,7 +5,11 @@
 
 ---
 ### 🧑🏼‍🌾 학습 일지
-- [`tutorials` #1. Hello world](#)
-- 
+- [`tutorials` #1. Hello world](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.py)
 
 ---
+### GStreamer 환경 요약
+![image](https://github.com/user-attachments/assets/0bd9f939-7e5e-4ccd-9fee-3820d44426de)
+
+### PyGObject 이란?
+![image](https://github.com/user-attachments/assets/0253f2df-53a6-4e77-9138-da40db924fd8)
