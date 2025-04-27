@@ -8,6 +8,8 @@
 - [`tutorials` #1. Hello world](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.py)
 - [`tutorials` #2. GStreamer concepts](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-2.md)
 - [`tutorials` #3. Dynamic pipelines](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-3.md)
+- [`tutorials` #4. Time management](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-4.md)
+
 
   
 ---
