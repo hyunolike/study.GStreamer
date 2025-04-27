@@ -7,7 +7,9 @@
 ### 🧑🏼‍🌾 학습 일지
 - [`tutorials` #1. Hello world](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.py)
 - [`tutorials` #2. GStreamer concepts](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-2.md)
+- [`tutorials` #3. Dynamic pipelines](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-3.md)
 
+  
 ---
 ### GStreamer 환경 요약
 ![image](https://github.com/user-attachments/assets/0bd9f939-7e5e-4ccd-9fee-3820d44426de)
