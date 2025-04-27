@@ -1,6 +1,10 @@
 ## Basic tutorial 1: Hello world!
 > [공식문서](https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html?gi-language=c)
 
+### 튜토리얼 요약
+![image](https://github.com/user-attachments/assets/5c064ca3-3d36-4c82-8e24-53b39e2264ba)
+
+
 ### 가장 먼저 `GStreamer` 런타임 환경을 구축하자
 - 필수 운영체제: 우분투
 - 런타임 환경 설치는 공식문서 확인
