@@ -14,7 +14,7 @@
 - [`tutorials` #4. Time management](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-4.md)
 
 ### 🧑🏻‍💻 오프라인 정리
-- [`RTSP` 이용한 실시간 스트림 서버](#)
+- [`RTSP` 이용한 실시간 스트림 서버](https://github.com/hyunolike/study.GStreamer/blob/develop/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%A0%95%EB%A6%AC/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%84%9C%EB%B2%84.md)
 
 
   
