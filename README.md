@@ -13,6 +13,9 @@
 - [`tutorials` #3. Dynamic pipelines](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-3.md)
 - [`tutorials` #4. Time management](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-4.md)
 
+### 🧑🏻‍💻 오프라인 정리
+- [`RTSP` 이용한 실시간 스트림 서버](#)
+
 
   
 ---
