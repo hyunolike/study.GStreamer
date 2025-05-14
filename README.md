@@ -7,6 +7,13 @@
 
 
 ---
+### 🐶 프로젝트
+> [국가교통센터](https://www.its.go.kr/opendata/)
+
+- [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #1 cctv 영상 재생](#)
+- [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #2 cctv 영상 mp4 파일 추출](#)
+- [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #3 cctv 영상 특정 구간 mp4 파일 추출](#) 
+
 ### 🧑🏼‍🌾 학습 일지
 - [`tutorials` #1. Hello world](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-1.py)
 - [`tutorials` #2. GStreamer concepts](https://github.com/hyunolike/study.GStreamer/blob/develop/tutorial/tutorial-2.md)
