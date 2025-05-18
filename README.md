@@ -11,7 +11,7 @@
 > [국가교통센터](https://www.its.go.kr/opendata/)
 
 - [yt-dlp 이용해 동영상 스트리밍 사이트 URL 영상 재생](https://github.com/hyunolike/study.GStreamer/blob/develop/project/youtube/play-youtube.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/project/youtube/play-youtube.py)
-- [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #1 cctv 영상 재생](#) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/project/open-api/basic.py)
+- [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #1 cctv 영상 재생](https://github.com/hyunolike/study.GStreamer/blob/develop/project/open-api/basic.md) :: [코드 확인](https://github.com/hyunolike/study.GStreamer/blob/develop/project/open-api/basic.py)
 - `작성 중` [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #2 cctv 영상 mp4 파일 추출](#)
 - `작성 중` [`국가교통센터 OpenAPI 활용한 cctv 특정 구간 추출 프로젝트` #3 cctv 영상 특정 구간 mp4 파일 추출](#) 
 
