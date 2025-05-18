@@ -1,7 +1,8 @@
 # study.GStreamer
 > [!NOTE]
 > [GStreamer 프로젝트 저장소](http://gitlab.freedesktop.org/gstreamer) <br/>
-> [초저지연 미디어 전송 서비스 저장소](https://github.com/hwangsaeul)
+> [초저지연 미디어 전송 서비스 저장소](https://github.com/hwangsaeul) <br />
+> [GStreamer101 저장소](https://github.com/gstreamer101)
 
 <!-- ![image](https://github.com/user-attachments/assets/3d891704-da91-448c-b130-4c8ecf7310d7) -->
 
